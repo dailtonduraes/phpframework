@@ -1,0 +1,15 @@
+{
+    "name": "dailton/frameworkphp",
+    "authors": [
+        {
+            "name": "Dailton Duraes",
+            "email": "dailtonsd10@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "app\\" : "app"
+        }
+    }
+}
